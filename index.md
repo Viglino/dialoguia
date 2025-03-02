@@ -5,7 +5,7 @@ title: Dialogue avec une IA
 author: Viglino
 nav_order: 0
 has_children: true
-description: My #30DayMapChallenge 2024.
+description: 
 date: 2025-03-02
 image: ./assets/banner.jpg
 ---
@@ -17,5 +17,6 @@ Légende
 
 {: .d-question }
 question
+
 {: .d-answer-ia }
 réponse

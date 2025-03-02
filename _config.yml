@@ -1,14 +1,14 @@
 # Configurations
-title:            MapChallenge2024
-longtitle:        My #30DayMapChallenge 2024
+title:            Dialougia
+longtitle:        Dialogue avec une IA
 author:           Viglino
 email:            jean-marc.viglino@ign.fr
-description: My #30DayMapChallenge 2024
+description: Dialogue avec une IA
   
 version:          1.0
 
 url:              'https://viglino.github.io'
-baseurl:          '/MapChallenge2024'
+baseurl:          '/dialoguia'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -18,7 +18,7 @@ remote_theme: just-the-docs/just-the-docs
 back_to_top: false
 back_to_top_text: "Haut de page"
 
-footer_content: "Copyright &copy; 2024 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a> - CC-BY"
+footer_content: "Copyright &copy; 2024 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a> - CC-BY-NC-SA"
 
 toc:
   enabled: true
