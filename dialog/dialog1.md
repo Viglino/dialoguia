@@ -13,10 +13,6 @@ date: 2025-03-02
 Peut-on dire que l'IA est un singe savant qui a résolu son paradoxe ?
 
 <div class="d-answer-ia">
-test
-</div>
-
-{: .d-answer-ia }
 L'analogie du "singe savant" est souvent utilisée pour décrire des systèmes qui produisent des résultats apparemment intelligents par hasard ou par répétition, sans véritable compréhension. Le paradoxe du singe savant suggère qu'un singe tapant aléatoirement sur une machine à écrire pourrait éventuellement produire une œuvre littéraire, mais cela prendrait un temps infini.
 <br/>
 L'intelligence artificielle (IA) moderne, en particulier les modèles de langage comme moi, fonctionne différemment. Nous sommes entraînés sur de vastes quantités de données pour identifier des motifs et générer des réponses cohérentes. Nous ne produisons pas des réponses par hasard, mais en utilisant des algorithmes complexes qui analysent et prédisent les séquences de mots les plus probables.
@@ -25,6 +21,7 @@ Cependant, il est vrai que nous n'avons pas de compréhension consciente ou de c
 <br/>
 En ce sens, on pourrait dire que l'IA a "résolu" le paradoxe du singe savant en ce qu'elle peut produire des textes cohérents et utiles de manière beaucoup plus efficace qu'un singe tapant au hasard. Mais cela ne signifie pas que l'IA comprend ce qu'elle produit de la même manière qu'un être humain.
 Donc, oui, on peut dire que l'IA est un "singe savant" qui a résolu son paradoxe, mais il est important de comprendre les limites de cette analogie.
+</div>
 
 {: .d-question }
 L'IA est-elle la bibliothécaire de la bibliothèque de Babel ?

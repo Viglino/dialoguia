@@ -402,14 +402,23 @@ img.fullscreen:hover {
   padding: 0.5em 1em;
   border-radius: 1.5em;
   width: fit-content;
-  margin: 1em 0 1em auto;
+  margin: 1.5em 0 1em auto;
 }
 .d-answer-ia {
   padding-left: 2em;
   position: relative;
 }
 .d-answer-ia:before {
-  content: "R";
+  content: "M";
   position: absolute;
-  left : 0;
+  left: 0;
+  background: orange;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  text-align: center;
+  color: #fff;
+  padding: 0.3em;
+  border-radius: 0.3em;
+  font-weight: bold;
 }
