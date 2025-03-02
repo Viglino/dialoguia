@@ -395,3 +395,21 @@ img.fullscreen:hover {
 [data-fullscreen].visible img {
   transform: translate(-50%, -50%) scale(1);
 }
+
+
+.d-question {
+  background: #eee;
+  padding: 0.5em 1em;
+  border-radius: 1.5em;
+  width: fit-content;
+  margin: 1em 0 1em auto;
+}
+.d-answer-ia {
+  padding-left: 2em;
+  position: relative;
+}
+.d-answer-ia:before {
+  content: "R";
+  position: absolute;
+  left : 0;
+}
