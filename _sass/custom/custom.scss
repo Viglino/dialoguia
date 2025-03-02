@@ -396,6 +396,14 @@ img.fullscreen:hover {
   transform: translate(-50%, -50%) scale(1);
 }
 
+main {
+  position: relative;
+  padding-left: 2rem
+}
+h1, h2, h3 {
+  position: relative;
+  left: -2rem;
+}
 
 .d-question {
   background: #eee;
@@ -405,13 +413,12 @@ img.fullscreen:hover {
   margin: 1.5em 0 1em auto;
 }
 .d-answer-ia {
-  padding-left: 2em;
   position: relative;
 }
 .d-answer-ia:before {
   content: "M";
   position: absolute;
-  left: 0;
+  left: -2rem;
   background: orange;
   width: 1em;
   height: 1em;
