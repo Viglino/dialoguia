@@ -15,8 +15,3 @@ image: ./assets/banner.jpg
 ![](./assets/banner.jpg){: .banner }
 Légende
 
-{: .d-question }
-question
-
-{: .d-answer-ia }
-réponse

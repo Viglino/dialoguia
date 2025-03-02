@@ -9,6 +9,10 @@ date: 2025-03-02
 ---
 # Le paradoxe du singe savant
 
+{: .right .small }
+![](./dialog1-monkey.jpg){: .banner }
+généré par IA : Tensort.art
+
 {: .d-question }
 Peut-on dire que l'IA est un singe savant qui a résolu son paradoxe ?
 
